@@ -18,9 +18,8 @@ This GitHub profile is more than just a portfolio—it's a space for learning, c
 
 #### 📊 Activity Overview
 
-![](https://raw.githubusercontent.com/b0n60/b0n60/master/profile-summary-card-output/solarized_dark/3-stats.svg)
-![](https://raw.githubusercontent.com/b0n60/b0n60/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
-
+![](https://raw.githubusercontent.com/b0n60/b0n60/master/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/b0n60/b0n60/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 ---
 
 #### 🔧 Skills & Tools
