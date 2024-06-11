@@ -29,13 +29,8 @@ This GitHub profile is more than just a portfolio—it's a space for learning, c
 
 #### 📊 Activity Overview
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b0n60&theme=dark" alt="Bongo's GitHub Activity" style="width: 100%;">
-</div>
-
-</div>
-
-</div>
+![](https://raw.githubusercontent.com/b0n60/b0n60/master/profile-summary-card-output/solarized_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/b0n60/b0n60/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
 
 ---
 
