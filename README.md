@@ -29,7 +29,6 @@ This GitHub profile is more than just a portfolio—it's a space for learning, c
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Security Tools](https://img.shields.io/badge/Security%20Tools-181717?style=for-the-badge&logo=security&logoColor=white)
 
 ---
 
