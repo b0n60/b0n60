@@ -16,26 +16,10 @@ This GitHub profile is more than just a portfolio—it's a space for learning, c
 
 <div style="width: 100%; background: linear-gradient(90deg, rgba(36,36,36,1) 0%, rgba(54,54,54,1) 100%); padding: 10px; border-radius: 5px; margin-bottom: 10px;">
 
-#### 📈 Contribution Stats
-
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=b0n60&show_icons=true&theme=dark" alt="Bongo's GitHub Stats" style="width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0n60&layout=compact&theme=dark&count_private=true" alt="Top Languages" style="width: 48%;">
-</div>
-
-</div>
-
-<div style="width: 100%; background: linear-gradient(90deg, rgba(36,36,36,1) 0%, rgba(54,54,54,1) 100%); padding: 10px; border-radius: 5px; margin-top: 10px;">
-
 #### 📊 Activity Overview
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b0n60&theme=dark" alt="Bongo's GitHub Activity" style="width: 100%;">
-</div>
-
-</div>
-
-</div>
+![](https://raw.githubusercontent.com/b0n60/b0n60/master/profile-summary-card-output/gruvbox/3-stats.svg)
+![](https://raw.githubusercontent.com/b0n60/b0n60/master/profile-summary-card-output/gruvbox/2-most-commit-language.svg)
 
 ---
 
