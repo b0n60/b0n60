@@ -19,7 +19,7 @@ This GitHub profile is more than just a portfolio—it's a space for learning, c
 #### 📈 Contribution Stats
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=b0n60&show_icons=true&theme=dark&count_private=true" alt="Bongo's GitHub Stats" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=b0n60&show_icons=true&theme=dark" alt="Bongo's GitHub Stats" style="width: 48%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0n60&layout=compact&theme=dark&count_private=true" alt="Top Languages" style="width: 48%;">
 </div>
 
@@ -41,29 +41,15 @@ This GitHub profile is more than just a portfolio—it's a space for learning, c
 
 #### 🔧 Skills & Tools
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  ![Red/Blue Teaming](https://img.shields.io/badge/Red/Blue%20Teaming-007ACC?style=for-the-badge&logo=teamspeak&logoColor=white)
-  ![Web Development](https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Security Tools](https://img.shields.io/badge/Security%20Tools-181717?style=for-the-badge&logo=security&logoColor=white)
-</div>
+![Red/Blue Teaming](https://img.shields.io/badge/Red/Blue%20Teaming-007ACC?style=for-the-badge&logo=teamspeak&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Security Tools](https://img.shields.io/badge/Security%20Tools-181717?style=for-the-badge&logo=security&logoColor=white)
 
 ---
 
 #### 📞 Let's Connect
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <a href="https://www.linkedin.com/in/bongo-sijora/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/sudo_bongo?s=09">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://YOUR_WEBSITE_URL">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bongo-sijora/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sudo_bongo?s=09)
