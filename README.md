@@ -8,7 +8,7 @@ When I'm not deep into cybersecurity, you'll find me programming and creating se
 
 #### 🌐 Platform for Learning and Innovation
 
-This GitHub profile is more than just a portfolio—it's a space for learning, collaboration, and innovation. I'm excited to connect with other professionals to explore new advancements in technology, security, and creativity. Let's work together towards a safer digital future. 
+This GitHub profile is more than just a portfolio—it's a space for learning, collaboration, and innovation. I'm excited to connect with other professionals to explore new advancements in technology, security, and creativity. 
 
 <div style="display: flex; flex-direction: column; width: 100%;">
 
