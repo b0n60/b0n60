@@ -10,8 +10,6 @@ When I'm not deep into cybersecurity, you'll find me programming and creating se
 
 This GitHub profile is more than just a portfolio—it's a space for learning, collaboration, and innovation. I'm excited to connect with other professionals to explore new advancements in technology, security, and creativity. Let's work together towards a safer digital future. 
 
----
-
 <div style="display: flex; flex-direction: column; width: 100%;">
 
 <div style="width: 100%; background: linear-gradient(90deg, rgba(36,36,36,1) 0%, rgba(54,54,54,1) 100%); padding: 10px; border-radius: 5px; margin-bottom: 10px;">
@@ -19,17 +17,12 @@ This GitHub profile is more than just a portfolio—it's a space for learning, c
 ![](https://raw.githubusercontent.com/b0n60/b0n60/master/profile-summary-card-output/gruvbox/3-stats.svg)
 ![](https://raw.githubusercontent.com/b0n60/b0n60/master/profile-summary-card-output/gruvbox/2-most-commit-language.svg)
 
----
-
 #### 🔧 Skills & Tools
 
 ![Red/Blue Teaming](https://img.shields.io/badge/Red/Blue%20Teaming-007ACC?style=for-the-badge&logo=teamspeak&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Security Tools](https://img.shields.io/badge/Security%20Tools-181717?style=for-the-badge&logo=security&logoColor=white)
-
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 📞 Let's Connect
 
