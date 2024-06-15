@@ -1,6 +1,6 @@
 #### 👨🏿‍💻 SOC Analyst | 🇿🇦 South Africa 
 
-Hello! 👋🏾 I'm Bongo, a SOC Analyst from South Africa. Cybersecurity is my passion. I thrive in the dynamic dance between blue teaming and red teaming, weaving insights from cybersecurity, science, genetics, philosophy, and politics into a unified approach. Inspired by Nietzsche's Übermensch theory, I push the boundaries of digital defense.
+Hello! 👋🏾 I'm Bongo, a SOC Analyst from South Africa. Cybersecurity is my passion. I thrive in the dynamic dance between blue teaming and red teaming, weaving insights from cybersecurity, science, genetics, philosophy, and politics into a unified approach.
 
 #### 💡 Beyond Professional Pursuits
 
