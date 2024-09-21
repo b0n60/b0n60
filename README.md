@@ -1,4 +1,4 @@
-### 👨🏿‍💻 SOC Analyst | 🇿🇦 South Africa
+#### 👨🏿‍💻 SOC Analyst | 🇿🇦 South Africa
 
 Hello! 👋🏾 I’m Bongo, a SOC Analyst based in South Africa, deeply passionate about cybersecurity. I thrive on navigating the intricate balance between blue teaming and red teaming, drawing connections between cybersecurity, science, genetics, philosophy, and politics to shape a comprehensive approach to my work.
 
