@@ -3,9 +3,11 @@
 Hello! 👋🏾 I’m Bongo, a SOC Analyst based in South Africa, deeply passionate about cybersecurity. I thrive on navigating the intricate balance between blue teaming and red teaming, drawing connections between cybersecurity, science, genetics, philosophy, and politics to shape a comprehensive approach to my work.
 
 💡 Beyond Professional Pursuits
+
 Outside of my role in cybersecurity, I channel my creativity into building secure and visually striking applications. My work is a blend of art and science, always focused on achieving a seamless balance of precision and innovation. At the heart of everything I do is a mission to make the digital world safer and foster more reliable online interactions.
 
 🌐 Platform for Learning and Innovation
+
 This GitHub profile isn’t just a portfolio—it's a space for collaboration, learning, and exploration. I'm always eager to connect with fellow professionals and explore the latest advancements in technology, security, and creativity.
 
 <div style="display: flex; flex-direction: column; width: 100%;">
